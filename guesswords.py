@@ -1,4 +1,3 @@
-# Guess the words
 from random import randint
 
 choices = ["Kitchen", "Garden", "Living Room", "Bathroom"]
